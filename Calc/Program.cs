@@ -78,7 +78,7 @@ namespace Calculator
 
             
 
-            Console.WriteLine("Naciśnij cokolwiek");
+            Console.WriteLine("Press any button to exit");
             Console.ReadLine();
             Environment.Exit(0);
 
