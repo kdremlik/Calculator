@@ -22,7 +22,7 @@ namespace Calculator
             while (cont == true)
             {
                 // Display title as the C# console calculator app.
-            Console.WriteLine("Console Calculator in C# by Dremliktoprzechuj\r");
+            Console.WriteLine("Console Calculator in C# \r");
             Console.WriteLine("------------------------\n");
 
             string comma = ",";
